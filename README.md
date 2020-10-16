@@ -8,6 +8,7 @@
 <a href="https://www.instagram.com/danilo.pitombeira/">
     <img align="left" alt="Danilo Pitombeira Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=48409301)
 <br>
 Hi, I'm Danilo Pitombeira, a Full Stack Developer 🚀 from Brazil 🇧🇷, Freelancer in Upwork and CEO ValeNext. 
 <!--
