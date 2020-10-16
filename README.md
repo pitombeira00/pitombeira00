@@ -24,7 +24,15 @@ Hi, I'm Danilo Pitombeira, a Full Stack Developer 🚀 from Brazil 🇧🇷, Fre
 
 
 **Languages and Tools:**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitombeira00&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitombeira00&layout=compact)
+<p align="left">
+<a href="https://www.laravel.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.mysql.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.jquery.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-official.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.apple.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="bash" width="40" height="40"/> </a>
+</p>
 
 **GitHub Stats:**  
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=pitombeira00&theme=dark&show_icons=true)
