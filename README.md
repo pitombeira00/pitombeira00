@@ -22,8 +22,12 @@ Hi, I'm Danilo Pitombeira, a Full Stack Developer 🚀 from Brazil 🇧🇷, Fre
 - 👧 Playing with my daughter
 
 
+
 **Languages and Tools:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitombeira00&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitombeira00&layout=compact)]
+
+**GitHub Stats:**  
+![Top Langs](https://github-readme-stats.vercel.app/api?username=pitombeira00&theme=dark&show_icons=true)
 <!--
 **pitombeira00/pitombeira00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
