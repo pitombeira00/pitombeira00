@@ -24,6 +24,7 @@ Hi, I'm Danilo Pitombeira, a Full Stack Developer 🚀 from Brazil 🇧🇷, Fre
 
 
 **Languages and Tools:**  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitombeira00&layout=compact)
 <p align="left">
 <a href="https://www.laravel.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -35,6 +36,7 @@ Hi, I'm Danilo Pitombeira, a Full Stack Developer 🚀 from Brazil 🇧🇷, Fre
 </p>
 
 **GitHub Stats:**  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=pitombeira00&theme=dark&show_icons=true)
 <!--
 **pitombeira00/pitombeira00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
