@@ -12,7 +12,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=pitombeira00.pitombeira00)
 
 <br />
-Hi, I'm Danilo Pitombeira, a Full Stack Developer 🚀 from Brazil 🇧🇷, Freelancer in Upwork and CEO ValeNext. 
+Hi, I'm Danilo Pitombeira, a Full Stack Developer 🚀 from Brazil 🇧🇷, Freelancer in Upwork. 
 
 **Talking about Personal Stuffs:**
 
