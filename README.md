@@ -16,8 +16,8 @@ Hi, I'm Danilo Pitombeira, a Full Stack Developer 🚀 from Brazil 🇧🇷, Fre
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on API Telegram and API Twilio :wink:;
-- 📱 I’m currently learning PSR-PHP; 
+- 👨🏽‍💻 I’m currently working on API Telegram :wink:;
+- 📱 I’m currently learning SwiftUI; 
 - 💬 Ask me about Laravel, I am happy to help;
 - 👧 Playing with my daughter
 
