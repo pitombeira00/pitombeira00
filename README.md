@@ -12,16 +12,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=pitombeira00.pitombeira00)
 
 <br />
-Hi, I'm Danilo Pitombeira, a Full Stack Developer 🚀 from Brazil 🇧🇷, Freelancer in Upwork. 
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on API Telegram :wink:;
-- 📱 I’m currently learning SwiftUI; 
-- 💬 Ask me about Laravel, I am happy to help;
-- 👧 Playing with my daughter
-
-
+Hi, I'm Danilo Pitombeira, a Back-End Developer 🚀 from Brazil 🇧🇷.
 
 **Languages and Tools:**  
 
