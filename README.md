@@ -9,8 +9,6 @@
     <img align="left" alt="Danilo Pitombeira Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=pitombeira00.pitombeira00)
-
 <br />
 Hi, I'm Danilo Pitombeira, a Back-End Developer 🚀 from Brazil 🇧🇷.
 
@@ -22,8 +20,6 @@ Hi, I'm Danilo Pitombeira, a Back-End Developer 🚀 from Brazil 🇧🇷.
 <a href="https://www.php.net" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.mysql.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.jquery.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.getbootstrap.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.apple.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="bash" width="40" height="40"/> </a>
 </p>
 
 **GitHub Stats:**  
